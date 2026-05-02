@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+Hello!! My name's David. I'm currently a GIT Full Stack Web Development student @ASU
 
 
 # 💻 Tech Stack:
